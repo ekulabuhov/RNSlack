@@ -1,12 +1,12 @@
 {
   "name": "rnslack",
-  "description": "An empty new project",
+  "description": "Simplistic clone of a Slack client, thrown together in the span of couple of days using React Native. Also my first experience with RN and Exponent.",
   "slug": "rnslack",
   "sdkVersion": "10.0.0",
   "version": "1.0.0",
   "orientation": "portrait",
   "primaryColor": "#cccccc",
-  "iconUrl": "https://s3.amazonaws.com/exp-brand-assets/ExponentEmptyManifest_192.png",
+  "iconUrl": "https://raw.githubusercontent.com/ekulabuhov/RNSlack/master/RNSlack.png",
   "notification": {
     "iconUrl": "https://s3.amazonaws.com/exp-us-standard/placeholder-push-icon-blue-circle.png",
     "color": "#000000"

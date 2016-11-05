@@ -38,7 +38,7 @@ export default class Oauth extends Component {
   };
 
   onLoadStart = () => {
-    if (this.state.url.contains('code=')) {
+    if (this.state.url.indexOf('code=') + 1) {
       this.refs[WEBVIEW_REF].stopLoading();
 
       let url = this.state.url,
